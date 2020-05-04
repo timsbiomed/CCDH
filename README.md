@@ -63,3 +63,14 @@ it is a member of and its mappings to other code systems -- a key one of which i
 
 The UMLS CUI, in turn, gives us an entry point into the UMLS, an RDF representation of which is available
 in BioPortal -- this gives us a bridge into everything that "maps to" the UMLS concept.
+
+We can use the combination of the inputs and UMLS based mappings to build both FHIR and TCCM Mapping resources
+
+## Possible approaches and paths
+### ShEx and caDSR
+The Shape Expressions language could be used both to express the more complex queries such as shown above as
+well as to define what is required to enter a new data element into the caDSR. This may have limited value, however unless 
+there is a R/W caDSR image.
+
+We anticipate using a combination of ShExMap and JSON-LD contexts to transform value sets and maps to both FHIR and
+TCCM value sets and mappings.

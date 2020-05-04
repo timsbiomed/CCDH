@@ -1,0 +1,360 @@
+@prefix cmdr: <http://cbiit.nci.nih.gov/caDSR#> .
+@prefix isomdr: <http://www.iso.org/11179/MDR#> .
+@prefix ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> .
+@prefix ns1: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+cmdr:DE3111302 a rdfs:Class ;
+    rdfs:label "Specimen Type Collection Biospecimen Type" ;
+    cmdr:classification_count "4"^^xsd:int ;
+    cmdr:has_classification <http://www.ontotext.com/tm#1509420>,
+        <http://www.ontotext.com/tm#1509421>,
+        <http://www.ontotext.com/tm#1509422>,
+        <http://www.ontotext.com/tm#1509423> ;
+    cmdr:publicId "3111302" ;
+    cmdr:short_name "SPEC_COLL_BIOSP_TP" ;
+    cmdr:used_by "COG",
+        "GDC",
+        "NCIP",
+        "OCG" ;
+    cmdr:value_domain_datatype "CHARACTER" ;
+    cmdr:value_domain_type "Enumerated" ;
+    isomdr:DEC_Long_Name "Specimen Type" ;
+    isomdr:DEC_publicId "2513409" ;
+    isomdr:Object_Class <http://www.ontotext.com/tm#1509424> ;
+    isomdr:Property <http://www.ontotext.com/tm#1509425> ;
+    isomdr:administration_status "RELEASED" ;
+    isomdr:permitted_value <http://www.ontotext.com/tm#1509426>,
+        <http://www.ontotext.com/tm#1509430>,
+        <http://www.ontotext.com/tm#1509433>,
+        <http://www.ontotext.com/tm#1509436>,
+        <http://www.ontotext.com/tm#1509439>,
+        <http://www.ontotext.com/tm#1509442>,
+        <http://www.ontotext.com/tm#1509449>,
+        <http://www.ontotext.com/tm#1509452>,
+        <http://www.ontotext.com/tm#1509455>,
+        <http://www.ontotext.com/tm#1509458>,
+        <http://www.ontotext.com/tm#1509461>,
+        <http://www.ontotext.com/tm#1509465>,
+        <http://www.ontotext.com/tm#1509468>,
+        <http://www.ontotext.com/tm#1509476>,
+        <http://www.ontotext.com/tm#1509483>,
+        <http://www.ontotext.com/tm#1509486>,
+        <http://www.ontotext.com/tm#1509492>,
+        <http://www.ontotext.com/tm#1509495>,
+        <http://www.ontotext.com/tm#1509498>,
+        <http://www.ontotext.com/tm#1509505>,
+        <http://www.ontotext.com/tm#1509508>,
+        <http://www.ontotext.com/tm#1509511>,
+        <http://www.ontotext.com/tm#1509514>,
+        <http://www.ontotext.com/tm#1509517>,
+        <http://www.ontotext.com/tm#1509520>,
+        <http://www.ontotext.com/tm#1509523>,
+        <http://www.ontotext.com/tm#1509526>,
+        <http://www.ontotext.com/tm#1509529>,
+        <http://www.ontotext.com/tm#1509532>,
+        <http://www.ontotext.com/tm#1509535>,
+        <http://www.ontotext.com/tm#1509538> ;
+    isomdr:registration_status "Qualified" ;
+    isomdr:version "2" ;
+    rdfs:subClassOf cmdr:DE3111302 ;
+    ns1:altLabel "Sample Type",
+        "Source of Specimen",
+        "Specimen",
+        "Specimen source/type:",
+        "Specimen type:",
+        "Tissue type used for ALK FISH:",
+        "Tissue type used for ALK tumor sequencing:",
+        "sample_type",
+        "tissue_type" ;
+    ns1:definition "Text term to describe the source of a biospecimen used for a laboratory test." .
+
+ncit:C12470 rdfs:label "Skin" .
+
+ncit:C12505 rdfs:label "Buccal Mucosa" .
+
+ncit:C12508 rdfs:label "Cell" .
+
+ncit:C12530 rdfs:label "Granulocyte" .
+
+ncit:C126103 rdfs:label "Urine Pellet" .
+
+ncit:C12692 rdfs:label "Cerebrospinal Fluid" .
+
+ncit:C12954 rdfs:label "Peripheral Blood Mononuclear Cell" .
+
+ncit:C13234 rdfs:label "Feces" .
+
+ncit:C13275 rdfs:label "Saliva" .
+
+ncit:C13283 rdfs:label "Urine" .
+
+ncit:C13325 rdfs:label "Serum" .
+
+ncit:C13356 rdfs:label "Plasma" .
+
+ncit:C14165 rdfs:label "Normal" .
+
+ncit:C17649 rdfs:label "Other" .
+
+ncit:C19314 rdfs:label "Cryopreserved Cell" .
+
+ncit:C19597 rdfs:label "Paraffin Embedded Tissue" .
+
+ncit:C25594 rdfs:label "Negation" .
+
+ncit:C2885 rdfs:label "Ascites" .
+
+ncit:C29744 rdfs:label "Formaldehyde" .
+
+ncit:C3262 rdfs:label "Neoplasm" .
+
+ncit:C36263 rdfs:label "Metastatic Malignant Neoplasm" .
+
+ncit:C38046 rdfs:label "Unspecified" .
+
+ncit:C41132 rdfs:label "None" .
+
+ncit:C45315 rdfs:label "Neoplastic" .
+
+ncit:C73123 rdfs:label "Mononucleated Blood Cell" .
+
+ncit:C77612 rdfs:label "Peritoneal Fluid" .
+
+ncit:C77613 rdfs:label "Pleural Fluid" .
+
+ncit:C84507 rdfs:label "Buffy Coat" .
+
+ncit:C84514 rdfs:label "Fixed Specimen" .
+
+ncit:C8509 rdfs:label "Primary Neoplasm" .
+
+ncit:C99276 rdfs:label "Tissue Scroll" .
+
+<http://www.ontotext.com/tm#1509426> rdfs:label "Bone Marrow (biopsy/aspirate)" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509429> .
+
+<http://www.ontotext.com/tm#1509429> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C12431 .
+
+<http://www.ontotext.com/tm#1509430> rdfs:label "Saliva" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509432> .
+
+<http://www.ontotext.com/tm#1509432> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C13275 .
+
+<http://www.ontotext.com/tm#1509433> rdfs:label "Tissue" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509435> .
+
+<http://www.ontotext.com/tm#1509435> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C12801 .
+
+<http://www.ontotext.com/tm#1509436> rdfs:label "Unspecified" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509438> .
+
+<http://www.ontotext.com/tm#1509438> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C38046 .
+
+<http://www.ontotext.com/tm#1509439> rdfs:label "Cryopreserved Cell" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509441> .
+
+<http://www.ontotext.com/tm#1509441> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C19314 .
+
+<http://www.ontotext.com/tm#1509442> rdfs:label "Urine Pellet" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509447> .
+
+<http://www.ontotext.com/tm#1509447> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C126103 .
+
+<http://www.ontotext.com/tm#1509449> rdfs:label "Neoplasm" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509451> .
+
+<http://www.ontotext.com/tm#1509451> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C3262 .
+
+<http://www.ontotext.com/tm#1509452> rdfs:label "Skin" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509454> .
+
+<http://www.ontotext.com/tm#1509454> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C12470 .
+
+<http://www.ontotext.com/tm#1509455> rdfs:label "Primary Neoplasm" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509457> .
+
+<http://www.ontotext.com/tm#1509457> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C8509 .
+
+<http://www.ontotext.com/tm#1509458> rdfs:label "Pleural Fluid" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509460> .
+
+<http://www.ontotext.com/tm#1509460> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C77613 .
+
+<http://www.ontotext.com/tm#1509461> rdfs:label "Normal Tissue" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509463>,
+        <http://www.ontotext.com/tm#1509464> .
+
+<http://www.ontotext.com/tm#1509463> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C14165 .
+
+<http://www.ontotext.com/tm#1509464> cmdr:display_order "1" ;
+    cmdr:minor_concept ncit:C12801 .
+
+<http://www.ontotext.com/tm#1509465> rdfs:label "None" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509467> .
+
+<http://www.ontotext.com/tm#1509467> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C41132 .
+
+<http://www.ontotext.com/tm#1509468> rdfs:label "Bone Marrow Derivation Mononucleated Blood Cell" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509473>,
+        <http://www.ontotext.com/tm#1509474>,
+        <http://www.ontotext.com/tm#1509475> .
+
+<http://www.ontotext.com/tm#1509473> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C12431 .
+
+<http://www.ontotext.com/tm#1509474> cmdr:display_order "1" ;
+    cmdr:minor_concept ncit:C42885 .
+
+<http://www.ontotext.com/tm#1509475> cmdr:display_order "2" ;
+    cmdr:minor_concept ncit:C73123 .
+
+<http://www.ontotext.com/tm#1509476> rdfs:label "Metastatic Malignant Neoplasm" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509482> .
+
+<http://www.ontotext.com/tm#1509482> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C36263 .
+
+<http://www.ontotext.com/tm#1509483> rdfs:label "Granulocyte" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509485> .
+
+<http://www.ontotext.com/tm#1509485> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C12530 .
+
+<http://www.ontotext.com/tm#1509486> rdfs:label "Formalin Fixed Paraffin Embedded Tissue Scroll" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509488>,
+        <http://www.ontotext.com/tm#1509489>,
+        <http://www.ontotext.com/tm#1509490>,
+        <http://www.ontotext.com/tm#1509491> .
+
+<http://www.ontotext.com/tm#1509488> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C29744 .
+
+<http://www.ontotext.com/tm#1509489> cmdr:display_order "1" ;
+    cmdr:minor_concept ncit:C84514 .
+
+<http://www.ontotext.com/tm#1509490> cmdr:display_order "2" ;
+    cmdr:minor_concept ncit:C19597 .
+
+<http://www.ontotext.com/tm#1509491> cmdr:display_order "3" ;
+    cmdr:minor_concept ncit:C99276 .
+
+<http://www.ontotext.com/tm#1509492> rdfs:label "Cell" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509494> .
+
+<http://www.ontotext.com/tm#1509494> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C12508 .
+
+<http://www.ontotext.com/tm#1509495> rdfs:label "Buffy Coat" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509497> .
+
+<http://www.ontotext.com/tm#1509497> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C84507 .
+
+<http://www.ontotext.com/tm#1509498> rdfs:label "Blood Derivation" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509503>,
+        <http://www.ontotext.com/tm#1509504> .
+
+<http://www.ontotext.com/tm#1509503> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C12434 .
+
+<http://www.ontotext.com/tm#1509504> cmdr:display_order "1" ;
+    cmdr:minor_concept ncit:C42885 .
+
+<http://www.ontotext.com/tm#1509505> rdfs:label "Ascites" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509507> .
+
+<http://www.ontotext.com/tm#1509507> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C2885 .
+
+<http://www.ontotext.com/tm#1509508> rdfs:label "Urine" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509510> .
+
+<http://www.ontotext.com/tm#1509510> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C13283 .
+
+<http://www.ontotext.com/tm#1509511> rdfs:label "Serum" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509513> .
+
+<http://www.ontotext.com/tm#1509513> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C13325 .
+
+<http://www.ontotext.com/tm#1509514> rdfs:label "Plasma" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509516> .
+
+<http://www.ontotext.com/tm#1509516> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C13356 .
+
+<http://www.ontotext.com/tm#1509517> rdfs:label "Other" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509519> .
+
+<http://www.ontotext.com/tm#1509519> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C17649 .
+
+<http://www.ontotext.com/tm#1509520> rdfs:label "Feces" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509522> .
+
+<http://www.ontotext.com/tm#1509522> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C13234 .
+
+<http://www.ontotext.com/tm#1509523> rdfs:label "Cerebrospinal Fluid" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509525> .
+
+<http://www.ontotext.com/tm#1509525> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C12692 .
+
+<http://www.ontotext.com/tm#1509526> rdfs:label "Buccal Mucosa" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509528> .
+
+<http://www.ontotext.com/tm#1509528> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C12505 .
+
+<http://www.ontotext.com/tm#1509529> rdfs:label "Blood" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509531> .
+
+<http://www.ontotext.com/tm#1509531> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C12434 .
+
+<http://www.ontotext.com/tm#1509532> rdfs:label "Peripheral Blood Mononuclear Cell" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509534> .
+
+<http://www.ontotext.com/tm#1509534> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C12954 .
+
+<http://www.ontotext.com/tm#1509535> rdfs:label "Peritoneal Fluid" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509537> .
+
+<http://www.ontotext.com/tm#1509537> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C77612 .
+
+<http://www.ontotext.com/tm#1509538> rdfs:label "Non-Neoplastic" ;
+    cmdr:has_concept <http://www.ontotext.com/tm#1509543>,
+        <http://www.ontotext.com/tm#1509544> .
+
+<http://www.ontotext.com/tm#1509543> cmdr:display_order "0" ;
+    cmdr:main_concept ncit:C25594 .
+
+<http://www.ontotext.com/tm#1509544> cmdr:display_order "1" ;
+    cmdr:minor_concept ncit:C45315 .
+
+ncit:C12431 rdfs:label "Bone Marrow" .
+
+ncit:C12434 rdfs:label "Blood" .
+
+ncit:C12801 rdfs:label "Tissue" .
+
+ncit:C42885 rdfs:label "Derivation" .
+

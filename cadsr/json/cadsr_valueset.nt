@@ -1,0 +1,248 @@
+<http://www.ontotext.com/tm#1509488> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29744> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17649> <http://www.w3.org/2000/01/rdf-schema#label> "Other" .
+<http://www.ontotext.com/tm#1509531> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12434> .
+<http://www.ontotext.com/tm#1509503> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://www.ontotext.com/tm#1509468> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509475> .
+<http://www.ontotext.com/tm#1509442> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509447> .
+<http://www.ontotext.com/tm#1509534> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12954> .
+<http://www.ontotext.com/tm#1509454> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://www.ontotext.com/tm#1509486> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509490> .
+<http://www.ontotext.com/tm#1509483> <http://www.w3.org/2000/01/rdf-schema#label> "Granulocyte" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509449> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77612> <http://www.w3.org/2000/01/rdf-schema#label> "Peritoneal Fluid" .
+<http://www.ontotext.com/tm#1509430> <http://www.w3.org/2000/01/rdf-schema#label> "Saliva" .
+<http://www.ontotext.com/tm#1509513> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13325> .
+<http://www.ontotext.com/tm#1509455> <http://www.w3.org/2000/01/rdf-schema#label> "Primary Neoplasm" .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38046> <http://www.w3.org/2000/01/rdf-schema#label> "Unspecified" .
+<http://www.ontotext.com/tm#1509429> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://www.ontotext.com/tm#1509426> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509429> .
+<http://www.ontotext.com/tm#1509439> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509441> .
+<http://www.ontotext.com/tm#1509495> <http://www.w3.org/2000/01/rdf-schema#label> "Buffy Coat" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509439> .
+<http://www.ontotext.com/tm#1509463> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://cbiit.nci.nih.gov/caDSR#value_domain_type> "Enumerated" .
+<http://www.ontotext.com/tm#1509430> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509432> .
+<http://www.ontotext.com/tm#1509528> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12505> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.w3.org/2000/01/rdf-schema#label> "Specimen Type Collection Biospecimen Type" .
+<http://www.ontotext.com/tm#1509520> <http://www.w3.org/2000/01/rdf-schema#label> "Feces" .
+<http://www.ontotext.com/tm#1509429> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12431> .
+<http://www.ontotext.com/tm#1509523> <http://www.w3.org/2000/01/rdf-schema#label> "Cerebrospinal Fluid" .
+<http://www.ontotext.com/tm#1509538> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509544> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19314> <http://www.w3.org/2000/01/rdf-schema#label> "Cryopreserved Cell" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509529> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://cbiit.nci.nih.gov/caDSR#has_classification> <http://www.ontotext.com/tm#1509420> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.w3.org/2004/02/skos/core#altLabel> "Specimen source/type:" .
+<http://www.ontotext.com/tm#1509467> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41132> .
+<http://www.ontotext.com/tm#1509531> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://www.ontotext.com/tm#1509465> <http://www.w3.org/2000/01/rdf-schema#label> "None" .
+<http://www.ontotext.com/tm#1509458> <http://www.w3.org/2000/01/rdf-schema#label> "Pleural Fluid" .
+<http://www.ontotext.com/tm#1509468> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509474> .
+<http://www.ontotext.com/tm#1509537> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77612> .
+<http://www.ontotext.com/tm#1509510> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://www.ontotext.com/tm#1509475> <http://cbiit.nci.nih.gov/caDSR#minor_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73123> .
+<http://www.ontotext.com/tm#1509435> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12505> <http://www.w3.org/2000/01/rdf-schema#label> "Buccal Mucosa" .
+<http://www.ontotext.com/tm#1509452> <http://www.w3.org/2000/01/rdf-schema#label> "Skin" .
+<http://www.ontotext.com/tm#1509529> <http://www.w3.org/2000/01/rdf-schema#label> "Blood" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509526> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509483> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509508> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://cbiit.nci.nih.gov/caDSR#has_classification> <http://www.ontotext.com/tm#1509421> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509452> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://cbiit.nci.nih.gov/caDSR#has_classification> <http://www.ontotext.com/tm#1509422> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#Property> <http://www.ontotext.com/tm#1509425> .
+<http://www.ontotext.com/tm#1509498> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509504> .
+<http://www.ontotext.com/tm#1509491> <http://cbiit.nci.nih.gov/caDSR#minor_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99276> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509532> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509538> .
+<http://www.ontotext.com/tm#1509465> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509467> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509505> .
+<http://www.ontotext.com/tm#1509449> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509451> .
+<http://www.ontotext.com/tm#1509519> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://www.ontotext.com/tm#1509447> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126103> .
+<http://www.ontotext.com/tm#1509498> <http://www.w3.org/2000/01/rdf-schema#label> "Blood Derivation" .
+<http://www.ontotext.com/tm#1509473> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://www.ontotext.com/tm#1509494> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12508> .
+<http://www.ontotext.com/tm#1509532> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509534> .
+<http://www.ontotext.com/tm#1509497> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://www.ontotext.com/tm#1509461> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509463> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509514> .
+<http://www.ontotext.com/tm#1509505> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509507> .
+<http://www.ontotext.com/tm#1509474> <http://cbiit.nci.nih.gov/caDSR#minor_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42885> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#version> "2" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.w3.org/2004/02/skos/core#altLabel> "Source of Specimen" .
+<http://www.ontotext.com/tm#1509525> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12692> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.w3.org/2004/02/skos/core#altLabel> "sample_type" .
+<http://www.ontotext.com/tm#1509507> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2885> .
+<http://www.ontotext.com/tm#1509543> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25594> .
+<http://www.ontotext.com/tm#1509505> <http://www.w3.org/2000/01/rdf-schema#label> "Ascites" .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13283> <http://www.w3.org/2000/01/rdf-schema#label> "Urine" .
+<http://www.ontotext.com/tm#1509535> <http://www.w3.org/2000/01/rdf-schema#label> "Peritoneal Fluid" .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84514> <http://www.w3.org/2000/01/rdf-schema#label> "Fixed Specimen" .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29744> <http://www.w3.org/2000/01/rdf-schema#label> "Formaldehyde" .
+<http://www.ontotext.com/tm#1509447> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509511> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509458> .
+<http://www.ontotext.com/tm#1509544> <http://cbiit.nci.nih.gov/caDSR#display_order> "1" .
+<http://www.ontotext.com/tm#1509543> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://www.ontotext.com/tm#1509464> <http://cbiit.nci.nih.gov/caDSR#display_order> "1" .
+<http://www.ontotext.com/tm#1509468> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509473> .
+<http://www.ontotext.com/tm#1509475> <http://cbiit.nci.nih.gov/caDSR#display_order> "2" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509495> .
+<http://www.ontotext.com/tm#1509514> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509516> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12530> <http://www.w3.org/2000/01/rdf-schema#label> "Granulocyte" .
+<http://www.ontotext.com/tm#1509467> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.w3.org/2004/02/skos/core#altLabel> "Specimen type:" .
+<http://www.ontotext.com/tm#1509538> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509543> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509436> .
+<http://www.ontotext.com/tm#1509486> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509488> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.w3.org/2004/02/skos/core#altLabel> "tissue_type" .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99276> <http://www.w3.org/2000/01/rdf-schema#label> "Tissue Scroll" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.w3.org/2004/02/skos/core#altLabel> "Specimen" .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77613> <http://www.w3.org/2000/01/rdf-schema#label> "Pleural Fluid" .
+<http://www.ontotext.com/tm#1509457> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://www.ontotext.com/tm#1509522> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13234> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#DEC_publicId> "2513409" .
+<http://www.ontotext.com/tm#1509485> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509523> .
+<http://www.ontotext.com/tm#1509451> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://www.ontotext.com/tm#1509485> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12530> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://cbiit.nci.nih.gov/caDSR#DE3111302> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13275> <http://www.w3.org/2000/01/rdf-schema#label> "Saliva" .
+<http://www.ontotext.com/tm#1509460> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://www.ontotext.com/tm#1509526> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509528> .
+<http://www.ontotext.com/tm#1509511> <http://www.w3.org/2000/01/rdf-schema#label> "Serum" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509468> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://cbiit.nci.nih.gov/caDSR#classification_count> "4"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://www.ontotext.com/tm#1509503> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12434> .
+<http://www.ontotext.com/tm#1509523> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509525> .
+<http://www.ontotext.com/tm#1509489> <http://cbiit.nci.nih.gov/caDSR#minor_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84514> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.w3.org/2004/02/skos/core#altLabel> "Tissue type used for ALK tumor sequencing:" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#registration_status> "Qualified" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509433> .
+<http://www.ontotext.com/tm#1509495> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509497> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://cbiit.nci.nih.gov/caDSR#value_domain_datatype> "CHARACTER" .
+<http://www.ontotext.com/tm#1509463> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14165> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509476> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509498> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12692> <http://www.w3.org/2000/01/rdf-schema#label> "Cerebrospinal Fluid" .
+<http://www.ontotext.com/tm#1509492> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509494> .
+<http://www.ontotext.com/tm#1509474> <http://cbiit.nci.nih.gov/caDSR#display_order> "1" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://cbiit.nci.nih.gov/caDSR#used_by> "OCG" .
+<http://www.ontotext.com/tm#1509436> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509438> .
+<http://www.ontotext.com/tm#1509525> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://cbiit.nci.nih.gov/caDSR#used_by> "GDC" .
+<http://www.ontotext.com/tm#1509454> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12470> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84507> <http://www.w3.org/2000/01/rdf-schema#label> "Buffy Coat" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#Object_Class> <http://www.ontotext.com/tm#1509424> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509535> .
+<http://www.ontotext.com/tm#1509486> <http://www.w3.org/2000/01/rdf-schema#label> "Formalin Fixed Paraffin Embedded Tissue Scroll" .
+<http://www.ontotext.com/tm#1509514> <http://www.w3.org/2000/01/rdf-schema#label> "Plasma" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#administration_status> "RELEASED" .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12434> <http://www.w3.org/2000/01/rdf-schema#label> "Blood" .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3262> <http://www.w3.org/2000/01/rdf-schema#label> "Neoplasm" .
+<http://www.ontotext.com/tm#1509482> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://www.ontotext.com/tm#1509435> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509455> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509492> .
+<http://www.ontotext.com/tm#1509433> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509435> .
+<http://www.ontotext.com/tm#1509508> <http://www.w3.org/2000/01/rdf-schema#label> "Urine" .
+<http://www.ontotext.com/tm#1509432> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13275> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.w3.org/2004/02/skos/core#altLabel> "Sample Type" .
+<http://www.ontotext.com/tm#1509441> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12470> <http://www.w3.org/2000/01/rdf-schema#label> "Skin" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://cbiit.nci.nih.gov/caDSR#publicId> "3111302" .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13356> <http://www.w3.org/2000/01/rdf-schema#label> "Plasma" .
+<http://www.ontotext.com/tm#1509433> <http://www.w3.org/2000/01/rdf-schema#label> "Tissue" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509486> .
+<http://www.ontotext.com/tm#1509476> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509482> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73123> <http://www.w3.org/2000/01/rdf-schema#label> "Mononucleated Blood Cell" .
+<http://www.ontotext.com/tm#1509483> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509485> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25594> <http://www.w3.org/2000/01/rdf-schema#label> "Negation" .
+<http://www.ontotext.com/tm#1509504> <http://cbiit.nci.nih.gov/caDSR#minor_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42885> .
+<http://www.ontotext.com/tm#1509438> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38046> .
+<http://www.ontotext.com/tm#1509449> <http://www.w3.org/2000/01/rdf-schema#label> "Neoplasm" .
+<http://www.ontotext.com/tm#1509438> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://www.ontotext.com/tm#1509490> <http://cbiit.nci.nih.gov/caDSR#minor_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19597> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19597> <http://www.w3.org/2000/01/rdf-schema#label> "Paraffin Embedded Tissue" .
+<http://www.ontotext.com/tm#1509452> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509454> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://cbiit.nci.nih.gov/caDSR#used_by> "NCIP" .
+<http://www.ontotext.com/tm#1509507> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://www.ontotext.com/tm#1509535> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509537> .
+<http://www.ontotext.com/tm#1509486> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509491> .
+<http://www.ontotext.com/tm#1509537> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45315> <http://www.w3.org/2000/01/rdf-schema#label> "Neoplastic" .
+<http://www.ontotext.com/tm#1509489> <http://cbiit.nci.nih.gov/caDSR#display_order> "1" .
+<http://www.ontotext.com/tm#1509516> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13356> .
+<http://www.ontotext.com/tm#1509426> <http://www.w3.org/2000/01/rdf-schema#label> "Bone Marrow (biopsy/aspirate)" .
+<http://www.ontotext.com/tm#1509517> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509519> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://cbiit.nci.nih.gov/caDSR#used_by> "COG" .
+<http://www.ontotext.com/tm#1509488> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://www.ontotext.com/tm#1509520> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509522> .
+<http://www.ontotext.com/tm#1509528> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36263> <http://www.w3.org/2000/01/rdf-schema#label> "Metastatic Malignant Neoplasm" .
+<http://www.ontotext.com/tm#1509491> <http://cbiit.nci.nih.gov/caDSR#display_order> "3" .
+<http://www.ontotext.com/tm#1509544> <http://cbiit.nci.nih.gov/caDSR#minor_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45315> .
+<http://www.ontotext.com/tm#1509511> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509513> .
+<http://www.ontotext.com/tm#1509532> <http://www.w3.org/2000/01/rdf-schema#label> "Peripheral Blood Mononuclear Cell" .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12431> <http://www.w3.org/2000/01/rdf-schema#label> "Bone Marrow" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#DEC_Long_Name> "Specimen Type" .
+<http://www.ontotext.com/tm#1509461> <http://www.w3.org/2000/01/rdf-schema#label> "Normal Tissue" .
+<http://www.ontotext.com/tm#1509439> <http://www.w3.org/2000/01/rdf-schema#label> "Cryopreserved Cell" .
+<http://www.ontotext.com/tm#1509436> <http://www.w3.org/2000/01/rdf-schema#label> "Unspecified" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509465> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8509> <http://www.w3.org/2000/01/rdf-schema#label> "Primary Neoplasm" .
+<http://www.ontotext.com/tm#1509498> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509503> .
+<http://www.ontotext.com/tm#1509473> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12431> .
+<http://www.ontotext.com/tm#1509458> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509460> .
+<http://www.ontotext.com/tm#1509494> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509520> .
+<http://www.ontotext.com/tm#1509522> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.w3.org/2004/02/skos/core#altLabel> "Tissue type used for ALK FISH:" .
+<http://www.ontotext.com/tm#1509476> <http://www.w3.org/2000/01/rdf-schema#label> "Metastatic Malignant Neoplasm" .
+<http://www.ontotext.com/tm#1509513> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://www.ontotext.com/tm#1509432> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://www.ontotext.com/tm#1509519> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17649> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12954> <http://www.w3.org/2000/01/rdf-schema#label> "Peripheral Blood Mononuclear Cell" .
+<http://www.ontotext.com/tm#1509492> <http://www.w3.org/2000/01/rdf-schema#label> "Cell" .
+<http://www.ontotext.com/tm#1509468> <http://www.w3.org/2000/01/rdf-schema#label> "Bone Marrow Derivation Mononucleated Blood Cell" .
+<http://www.ontotext.com/tm#1509517> <http://www.w3.org/2000/01/rdf-schema#label> "Other" .
+<http://www.ontotext.com/tm#1509460> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77613> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509461> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801> <http://www.w3.org/2000/01/rdf-schema#label> "Tissue" .
+<http://www.ontotext.com/tm#1509442> <http://www.w3.org/2000/01/rdf-schema#label> "Urine Pellet" .
+<http://www.ontotext.com/tm#1509455> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509457> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126103> <http://www.w3.org/2000/01/rdf-schema#label> "Urine Pellet" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://www.ontotext.com/tm#1509464> <http://cbiit.nci.nih.gov/caDSR#minor_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801> .
+<http://www.ontotext.com/tm#1509526> <http://www.w3.org/2000/01/rdf-schema#label> "Buccal Mucosa" .
+<http://www.ontotext.com/tm#1509457> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8509> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42885> <http://www.w3.org/2000/01/rdf-schema#label> "Derivation" .
+<http://www.ontotext.com/tm#1509451> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3262> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12508> <http://www.w3.org/2000/01/rdf-schema#label> "Cell" .
+<http://www.ontotext.com/tm#1509441> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19314> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14165> <http://www.w3.org/2000/01/rdf-schema#label> "Normal" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509442> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13325> <http://www.w3.org/2000/01/rdf-schema#label> "Serum" .
+<http://www.ontotext.com/tm#1509510> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13283> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13234> <http://www.w3.org/2000/01/rdf-schema#label> "Feces" .
+<http://www.ontotext.com/tm#1509482> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36263> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41132> <http://www.w3.org/2000/01/rdf-schema#label> "None" .
+<http://www.ontotext.com/tm#1509497> <http://cbiit.nci.nih.gov/caDSR#main_concept> <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84507> .
+<http://www.ontotext.com/tm#1509508> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509510> .
+<http://www.ontotext.com/tm#1509490> <http://cbiit.nci.nih.gov/caDSR#display_order> "2" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509426> .
+<http://www.ontotext.com/tm#1509538> <http://www.w3.org/2000/01/rdf-schema#label> "Non-Neoplastic" .
+<http://www.ontotext.com/tm#1509461> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509464> .
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2885> <http://www.w3.org/2000/01/rdf-schema#label> "Ascites" .
+<http://www.ontotext.com/tm#1509516> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://www.ontotext.com/tm#1509529> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509531> .
+<http://www.ontotext.com/tm#1509534> <http://cbiit.nci.nih.gov/caDSR#display_order> "0" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://cbiit.nci.nih.gov/caDSR#short_name> "SPEC_COLL_BIOSP_TP" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://cbiit.nci.nih.gov/caDSR#has_classification> <http://www.ontotext.com/tm#1509423> .
+<http://www.ontotext.com/tm#1509486> <http://cbiit.nci.nih.gov/caDSR#has_concept> <http://www.ontotext.com/tm#1509489> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.w3.org/2004/02/skos/core#definition> "Text term to describe the source of a biospecimen used for a laboratory test." .
+<http://www.ontotext.com/tm#1509504> <http://cbiit.nci.nih.gov/caDSR#display_order> "1" .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509517> .
+<http://cbiit.nci.nih.gov/caDSR#DE3111302> <http://www.iso.org/11179/MDR#permitted_value> <http://www.ontotext.com/tm#1509430> .
+

@@ -1,0 +1,1450 @@
+[
+  {
+    "@id": "http://www.ontotext.com/tm#1509497",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84507"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509543",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25594"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12954",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Peripheral Blood Mononuclear Cell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509435",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36263",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Metastatic Malignant Neoplasm"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509468",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509473"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509475"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509474"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Bone Marrow Derivation Mononucleated Blood Cell"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13275",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Saliva"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509522",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13234"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509494",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12508"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17649",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Other"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41132",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "None"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Tissue"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509426",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509429"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Bone Marrow (biopsy/aspirate)"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509461",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509463"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509464"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Normal Tissue"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509436",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509438"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Unspecified"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509534",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12954"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509473",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12431"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509463",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14165"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509454",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12470"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12508",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509503",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12434"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509452",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509454"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Skin"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73123",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Mononucleated Blood Cell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509538",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509543"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509544"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Non-Neoplastic"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509432",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13275"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2885",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Ascites"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509449",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509451"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Neoplasm"
+      }
+    ]
+  },
+  {
+    "@id": "http://cbiit.nci.nih.gov/caDSR#DE3111302",
+    "@type": [
+      "http://www.w3.org/2000/01/rdf-schema#Class"
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#classification_count": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#int",
+        "@value": "4"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#has_classification": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509420"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509421"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509422"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509423"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#publicId": [
+      {
+        "@value": "3111302"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#short_name": [
+      {
+        "@value": "SPEC_COLL_BIOSP_TP"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#used_by": [
+      {
+        "@value": "OCG"
+      },
+      {
+        "@value": "GDC"
+      },
+      {
+        "@value": "NCIP"
+      },
+      {
+        "@value": "COG"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#value_domain_datatype": [
+      {
+        "@value": "CHARACTER"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#value_domain_type": [
+      {
+        "@value": "Enumerated"
+      }
+    ],
+    "http://www.iso.org/11179/MDR#DEC_Long_Name": [
+      {
+        "@value": "Specimen Type"
+      }
+    ],
+    "http://www.iso.org/11179/MDR#DEC_publicId": [
+      {
+        "@value": "2513409"
+      }
+    ],
+    "http://www.iso.org/11179/MDR#Object_Class": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509424"
+      }
+    ],
+    "http://www.iso.org/11179/MDR#Property": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509425"
+      }
+    ],
+    "http://www.iso.org/11179/MDR#administration_status": [
+      {
+        "@value": "RELEASED"
+      }
+    ],
+    "http://www.iso.org/11179/MDR#permitted_value": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509523"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509449"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509468"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509439"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509433"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509476"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509498"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509529"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509535"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509455"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509492"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509526"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509486"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509483"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509508"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509452"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509532"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509538"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509505"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509465"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509520"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509514"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509461"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509511"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509442"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509458"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509495"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509426"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509517"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509430"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509436"
+      }
+    ],
+    "http://www.iso.org/11179/MDR#registration_status": [
+      {
+        "@value": "Qualified"
+      }
+    ],
+    "http://www.iso.org/11179/MDR#version": [
+      {
+        "@value": "2"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Specimen Type Collection Biospecimen Type"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
+      {
+        "@id": "http://cbiit.nci.nih.gov/caDSR#DE3111302"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      {
+        "@value": "tissue_type"
+      },
+      {
+        "@value": "Specimen"
+      },
+      {
+        "@value": "Tissue type used for ALK tumor sequencing:"
+      },
+      {
+        "@value": "Specimen source/type:"
+      },
+      {
+        "@value": "Sample Type"
+      },
+      {
+        "@value": "Tissue type used for ALK FISH:"
+      },
+      {
+        "@value": "Source of Specimen"
+      },
+      {
+        "@value": "sample_type"
+      },
+      {
+        "@value": "Specimen type:"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#definition": [
+      {
+        "@value": "Text term to describe the source of a biospecimen used for a laboratory test."
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509490",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "2"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#minor_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19597"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509528",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12505"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12530",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Granulocyte"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38046",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Unspecified"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509485",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12530"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509460",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77613"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509457",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8509"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509429",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12431"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509464",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "1"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#minor_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509492",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509494"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509442",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509447"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Urine Pellet"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99276",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Tissue Scroll"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509438",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38046"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77612",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Peritoneal Fluid"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509467",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41132"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509537",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77612"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509482",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36263"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509441",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19314"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C8509",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Primary Neoplasm"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509544",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "1"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#minor_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45315"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19314",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cryopreserved Cell"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12434",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Blood"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509430",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509432"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Saliva"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509510",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13283"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509529",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509531"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Blood"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509531",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12434"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509433",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509435"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Tissue"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509504",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "1"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#minor_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42885"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25594",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Negation"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12470",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Skin"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509517",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509519"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Other"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84507",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Buffy Coat"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509465",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509467"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "None"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509505",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509507"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Ascites"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42885",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Derivation"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13234",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Feces"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77613",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Pleural Fluid"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12692",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cerebrospinal Fluid"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509455",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509457"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Primary Neoplasm"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3262",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Neoplasm"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509513",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13325"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509474",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "1"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#minor_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42885"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509526",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509528"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Buccal Mucosa"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509439",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509441"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cryopreserved Cell"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509532",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509534"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Peripheral Blood Mononuclear Cell"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14165",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Normal"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13356",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Plasma"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509486",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509491"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509489"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509490"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509488"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Formalin Fixed Paraffin Embedded Tissue Scroll"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509523",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509525"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Cerebrospinal Fluid"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509514",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509516"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Plasma"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509475",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "2"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#minor_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73123"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509508",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509510"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Urine"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509498",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509504"
+      },
+      {
+        "@id": "http://www.ontotext.com/tm#1509503"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Blood Derivation"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13283",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Urine"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509535",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509537"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Peritoneal Fluid"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509476",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509482"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Metastatic Malignant Neoplasm"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509511",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509513"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Serum"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19597",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Paraffin Embedded Tissue"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509488",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29744"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509519",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17649"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29744",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Formaldehyde"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509516",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13356"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509447",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126103"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509520",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509522"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Feces"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509525",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12692"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13325",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Serum"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12431",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Bone Marrow"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126103",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Urine Pellet"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45315",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Neoplastic"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509495",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509497"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Buffy Coat"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12505",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Buccal Mucosa"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509489",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "1"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#minor_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84514"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509507",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2885"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509458",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509460"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Pleural Fluid"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509491",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "3"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#minor_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99276"
+      }
+    ]
+  },
+  {
+    "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84514",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Fixed Specimen"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509483",
+    "http://cbiit.nci.nih.gov/caDSR#has_concept": [
+      {
+        "@id": "http://www.ontotext.com/tm#1509485"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Granulocyte"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.ontotext.com/tm#1509451",
+    "http://cbiit.nci.nih.gov/caDSR#display_order": [
+      {
+        "@value": "0"
+      }
+    ],
+    "http://cbiit.nci.nih.gov/caDSR#main_concept": [
+      {
+        "@id": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3262"
+      }
+    ]
+  }
+]

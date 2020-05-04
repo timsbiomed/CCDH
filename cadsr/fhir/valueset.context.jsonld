@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "cmdr": "http://cbiit.nci.nih.gov/caDSR#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "isomdr": "http://www.iso.org/11179/MDR#",
+    "ncit": "http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": :http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+    "url": "@id",
+    "name": "cmdr:short_name",
+    "title": "rdfs:label",
+    "description": "isomdr:DEC_Long_Name",
+    "status": "isomdr:administration_status",
+    "expansion": "@nest",
+    "contains": {
+      "@id": "isomdr:permitted_value",
+      "@context": {
+         "code": "rdfs:label"
+      }
+    }
+  }
+}

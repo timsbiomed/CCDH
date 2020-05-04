@@ -1,0 +1,32 @@
+{
+  "resourceType" : "ValueSet",
+  "url": "http://cbiit.nci.nih.gov/caDSR#DE5432508",
+  "name": "analyte_type_id",
+  "title": "Molecular Analysis Analyte Code",
+  "status": "active",
+  "publisher": "NCI",
+  "contact": [
+    {
+      "type": "publisher",
+      "name": "National Cancer Institute",
+      "contact": {
+        "telecom": "email",
+        "value": "solbrig@jhu.edu"
+      }
+    }
+  ],
+  "description": "Molecular Analysis Analyte Identifier",
+  "expansion" : {
+    "identifier" : "http://cbiit.nci.nih.gov/caDSR#DE5432508",
+    "timestamp" : "2020-04-28T14:44:25.075+00:00",
+    "total" : 7,
+    "contains" : [
+      {"code": "Ribonucleic Acid"},
+      {"code": "Total Ribonucleic Acid"},
+      {"code": "Hybrid Extraction RNA"},
+      {"code": "DNA"},
+      {"code": "Repli-G X (Qiagen) DNA"},
+      {"code": "Repli-G (Qiagen) DNA"},
+      {"code": "GenomePlex (Rubicon) Amplified DNA"}]
+  }
+}

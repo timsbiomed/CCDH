@@ -1,0 +1,27 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX cmdr: <http://cbiit.nci.nih.gov/caDSR#>
+PREFIX isomdr: <http://www.iso.org/11179/MDR#>
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
+BASE <http://hotecosystem.org/cadsr/>
+
+start=@<DE>
+
+<DataElement> {
+    ^cmdr:publicId @<DE>
+}
+
+<DE> {
+    cmdr:publicId LITERAL  ;
+    isomdr:permitted_value {
+        rdfs:label LITERAL ;
+        cmdr:has_concept {
+                cmdr:main_concept @<NCIt>?;
+                cmdr:minor_concept @<NCIt>?;
+                cmdr:display_order .
+        }+
+    }*
+}
+
+<NCIt> {
+    rdfs:label .
+}
