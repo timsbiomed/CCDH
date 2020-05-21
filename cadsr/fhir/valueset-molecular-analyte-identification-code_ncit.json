@@ -1,0 +1,64 @@
+{
+  "resourceType" : "ValueSet",
+
+  "url": "http://cbiit.nci.nih.gov/caDSR#DE5432508",
+  "identifier": [
+      {
+        "system": "http://www.iso.org/11179/MDR#VD_publicId",
+        "value": "5428791"
+      },
+    {
+      "system": "http://cbiit.nci.nih.gov/caDSR#",
+      "value": "5432508"
+    }
+    ],
+  "version": "1",
+  "name": "analyte_type_id",
+  "title": "Molecular Analysis Analyte Code",
+  "status": "active",
+  "date": "2020-05-21T09:51:17-06:00",
+  "publisher": "National Cancer Institute",
+  "contact": [
+    {
+      "type": "publisher",
+      "name": "National Cancer Institute"
+    }
+  ],
+  "description": "A single letter code used to identify a type of molecular analyte",
+  "useContext": {},
+  "expansion" : {
+    "identifier" : "http://cbiit.nci.nih.gov/caDSR#DE5432508",
+    "timestamp" : "2020-05-21T09:51:17-06:00",
+    "total" : 7,
+    "contains" : [
+      {"system": "http://cbiit.nci.nih.gov/caDSR#5428791",
+        "code": "R",
+        "display": "Ribonucleic Acit"
+      },
+      {"system": "http://cbiit.nci.nih.gov/caDSR#5428791",
+        "code": "T",
+        "display": "Total Ribonucleic Acid"
+      },
+      {"system": "http://cbiit.nci.nih.gov/caDSR#5428791",
+        "code": "H",
+        "display": "Hybrid Extraction RNA"
+      },
+      {"system": "http://cbiit.nci.nih.gov/caDSR#5428791",
+        "code": "D",
+        "display": "Repli-G X (Qiagen) DNA"
+      },
+       {"system": "http://cbiit.nci.nih.gov/caDSR#5428791",
+        "code": "X",
+        "display": "Repli-G X (Qiagen) DNA"
+      },
+      {"system": "http://cbiit.nci.nih.gov/caDSR#5428791",
+        "code": "W",
+        "display": "Repli-G (Qiagen) DNA"
+      },
+      {"system": "http://cbiit.nci.nih.gov/caDSR#5428791",
+        "code": "G",
+        "display": "GenomePlex (Rubicon) Amplified DNA"
+      }
+    ]
+  }
+}

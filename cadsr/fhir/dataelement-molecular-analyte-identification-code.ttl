@@ -1,0 +1,112 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> . 
+@prefix xml: <http://www.w3.org/XML/1998/namespace> . 
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> . 
+@prefix skos:<http://www.w3.org/2004/02/skos/core#> .
+@prefix dc:<http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix cmdr: <http://cbiit.nci.nih.gov/caDSR#> .
+@prefix isomdr: <http://www.iso.org/11179/MDR#> . 
+@prefix madsrdf: <http://www.loc.gov/mads/rdf/v1#> . 
+
+@prefix ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> . 
+@prefix ncim: <http://ncim.nci.nih.gov/NCIMetathesaurus.owl#> .
+@prefix mo: <http://mged.org/MGEDOntology#> .
+@prefix ndfrt: <http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#> .
+@prefix ctcae: <http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae5.owl#> .
+@prefix lnc:  <https://loinc.org/code#> .
+@prefix sno:  <http://snomed.info/id#> .
+@prefix snoct:  <http://snomed.info/id#> .
+@prefix rid:  <http://radlex.org/RID/> .
+@prefix cabig:  <http://ncicb.nci.nih.gov/cabig#> .
+@prefix medr:  <https://identifiers.org/meddra#> .
+@prefix go:  <http://purl.org/obo/owl/GO#> .
+@prefix UNK: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#> . 
+
+cmdr:DE5432508 rdfs:label "Molecular Analyte Identification Code" ;
+	cmdr:short_name "analyte_type_id" ;
+	cmdr:publicId "5432508" ;
+	a rdfs:Class ;
+	isomdr:version "1" ;
+	skos:definition "A single letter code used to identify a type of molecular analyte." ;
+	isomdr:registration_status "Application" ;
+	isomdr:administration_status "RELEASED" ;
+	cmdr:used_by "GDC";
+	skos:altLabel "Analyte Type ID";
+	isomdr:VD_publicId "5428791" ;
+	isomdr:VD_version "1" ;
+	cmdr:value_domain_type "Enumerated" ;
+	cmdr:value_domain_datatype "CHARACTER" ;
+	cmdr:classification_count "2"^^xsd:int ; 
+	cmdr:has_classification
+		[ rdfs:label "Biospecimen - Aliquot" ; cmdr:used_by "GDC" ] ,
+		[ rdfs:label "Biospecimen - Analyte" ; cmdr:used_by "GDC" ] ;
+	isomdr:DEC_Long_Name "Molecular Analysis Analyte Identifier" ;
+	isomdr:DEC_publicId "5431709" ;
+	isomdr:Object_Class
+		[ cmdr:main_concept ncit:C19770 ; cmdr:display_order "0" ] ;
+	isomdr:Property
+		[ cmdr:main_concept ncit:C25364 ; cmdr:display_order "0" ] ,
+		[ cmdr:minor_concept ncit:C128639 ; cmdr:display_order "1" ] ;
+	isomdr:permitted_value
+		[ isomdr:value "R" ;
+		  rdfs:label "Ribonucleic Acid" ;
+		  cmdr:answer_text "Molecular Analyte Identification Code is R" ;
+		  skos:altLabel "RNA" ;
+		  skos:definition "A nucleic acid molecule similar to DNA but containing ribose rather than deoxyribose. RNA is formed upon a DNA template. There are several classes of RNA molecules. They play crucial roles in protein synthesis and other cell activities. (MedicineNet.com)" ;
+		  isomdr:begin_date "2016-08-23"^^xsd:date ;
+		  cmdr:has_concept [ cmdr:main_concept ncit:C812; cmdr:display_order "0" ] 
+		  ] ,
+		[ isomdr:value "T" ;
+		  rdfs:label "Total Ribonucleic Acid" ;
+		  cmdr:answer_text "Molecular Analyte Identification Code is T" ;
+		  skos:altLabel "Total RNA" ;
+		  skos:definition "Pertaining to an entirety or whole, also constituting the full quantity or extent; complete; derived by addition.: Single-stranded long chain of nucleotides containing ribose. It is the end product of DNA transcription by the enzyme RNA polymerase. It is essential in protein synthesis." ;
+		  isomdr:begin_date "2016-08-23"^^xsd:date ;
+		  cmdr:has_concept [ cmdr:main_concept ncit:C812; cmdr:display_order "0" ] ;
+		  cmdr:has_concept [ cmdr:minor_concept ncit:C25304; cmdr:display_order "1" ] 
+		  ] ,
+		[ isomdr:value "H" ;
+		  rdfs:label "Hybrid Extraction RNA" ;
+		  cmdr:answer_text "Molecular Analyte Identification Code is H" ;
+		  skos:definition "Being comprised of mixed attributes or parts.::1: Any method that extracts RNA from biological samples, which includes the proper handling of biological samples prior to nucleic acid isolation, the separation of RNA from the rest of the components in the samples, and the storage of the RNA isolates.: Single-stranded long chain of nucleotides containing ribose. It is the end product of DNA transcription by the enzyme RNA polymerase. It is essential in protein synthesis." ;
+		  isomdr:begin_date "2016-08-23"^^xsd:date ;
+		  cmdr:has_concept [ cmdr:main_concept ncit:C812; cmdr:display_order "0" ] ;
+		  cmdr:has_concept [ cmdr:minor_concept ncit:C128789; cmdr:display_order "1" ] ;
+		  cmdr:has_concept [ cmdr:minor_concept ncit:C128790; cmdr:display_order "2" ] 
+		  ] ,
+		[ isomdr:value "D" ;
+		  rdfs:label "DNA" ;
+		  cmdr:answer_text "Molecular Analyte Identification Code is D" ;
+		  skos:altLabel "DNA" ;
+		  skos:altLabel "DNA " ;
+		  skos:definition "A long linear double-stranded polymer formed from nucleotides attached to a deoxyribose backbone and found in the nucleus of a cell; associated with the transmission of genetic information." ;
+		  isomdr:begin_date "2016-08-23"^^xsd:date ;
+		  cmdr:has_concept [ cmdr:main_concept ncit:C449; cmdr:display_order "0" ] 
+		  ] ,
+		[ isomdr:value "X" ;
+		  rdfs:label "Repli-G X (Qiagen) DNA" ;
+		  cmdr:answer_text "Molecular Analyte Identification Code is X" ;
+		  skos:definition "Coming next after the first in position in space or time or degree or magnitude.: This technique refers to selectively replicate DNA sequence of interest to multiple extra copies that meet the need of research or health care activity. Polymerase chain reaction (PCR), can be considered a type of man-made gene amplification process.: A proprietary method for whole genome amplification (WGA) from small samples using high-fidelity enzyme Phi 29 polymerase to amplify complex genomic DNA using Multiple Displacement Amplification (MDA) technology.: A long linear double-stranded polymer formed from nucleotides attached to a deoxyribose backbone and found in the nucleus of a cell; associated with the transmission of genetic information." ;
+		  isomdr:begin_date "2016-09-09"^^xsd:date ;
+		  cmdr:has_concept [ cmdr:main_concept ncit:C449; cmdr:display_order "0" ] ;
+		  cmdr:has_concept [ cmdr:minor_concept ncit:C128788; cmdr:display_order "1" ] ;
+		  cmdr:has_concept [ cmdr:minor_concept ncit:C20589; cmdr:display_order "2" ] ;
+		  cmdr:has_concept [ cmdr:minor_concept ncit:C25666; cmdr:display_order "3" ] 
+		  ] ,
+		[ isomdr:value "W" ;
+		  rdfs:label "Repli-G (Qiagen) DNA" ;
+		  cmdr:answer_text "Molecular Analyte Identification Code is W" ;
+		  skos:definition "A proprietary method for whole genome amplification (WGA) from small samples using high-fidelity enzyme Phi 29 polymerase to amplify complex genomic DNA using Multiple Displacement Amplification (MDA) technology.: A long linear double-stranded polymer formed from nucleotides attached to a deoxyribose backbone and found in the nucleus of a cell; associated with the transmission of genetic information." ;
+		  isomdr:begin_date "2016-09-09"^^xsd:date ;
+		  cmdr:has_concept [ cmdr:main_concept ncit:C449; cmdr:display_order "0" ] ;
+		  cmdr:has_concept [ cmdr:minor_concept ncit:C128788; cmdr:display_order "1" ] 
+		  ] ,
+		[ isomdr:value "G" ;
+		  rdfs:label "GenomePlex (Rubicon) Amplified DNA" ;
+		  cmdr:answer_text "Molecular Analyte Identification Code is G" ;
+		  skos:definition "A proprietary method for whole genome amplification (WGA) from very small samples using random fragmentation of genomic DNA and conversion of the resulting small fragments to a library of PCR-amplifiable molecules flanked by universal priming sites.: A long linear double-stranded polymer formed from nucleotides attached to a deoxyribose backbone and found in the nucleus of a cell; associated with the transmission of genetic information." ;
+		  isomdr:begin_date "2016-09-09"^^xsd:date ;
+		  cmdr:has_concept [ cmdr:main_concept ncit:C449; cmdr:display_order "0" ] ;
+		  cmdr:has_concept [ cmdr:minor_concept ncit:C128787; cmdr:display_order "1" ] 
+		  ] .
